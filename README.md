@@ -99,7 +99,6 @@ streamlit run app.py
 📷 Application Preview
 <img width="953" height="444" alt="application priview" src="https://github.com/user-attachments/assets/023399e5-ad5e-4fbd-a3b8-27bf221995f6" />
 
-
 📊 Performance Highlights
 🚀 Fast response generation
 ⚡ Lightweight model (optimized for deployment)
