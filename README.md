@@ -37,7 +37,7 @@
 👉 https://huggingface.co/hari-krishna-ai/my-chatbot
 
 🔗 GitHub Repository:  
-👉 github.com/hari9618/Model-Fine-Tnuning_-Hugging-Fcace-
+👉 https://github.com/hari9618/Model-Fine-Tnuning_-Hugging-Fcace-
 
 ---
 
